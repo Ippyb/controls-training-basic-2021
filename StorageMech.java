@@ -39,6 +39,6 @@ public class StorageMech {
         else if (another condition){
             motor.set(ControlMode.PercentOutput, .5);
         } 
-           }
+      }
    }
 
